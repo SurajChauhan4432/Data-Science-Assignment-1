@@ -1,5 +1,5 @@
 # Data-Science-Assignment-1
-**👉 [Click Here to view the full assignment in Google Colab]([paste_your_colab_link_here](https://colab.research.google.com/drive/1WZXf1zzifgluccmjyTCMR2RVcaxA3rWN?usp=sharing))**
+<b>👉 <a href="[YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1WZXf1zzifgluccmjyTCMR2RVcaxA3rWN?usp=sharing)">Click Here to view the full assignment in Google Colab</a></b>
 # T20 Cricket Match Analytics: ICC Data Science Assignment
 
 ## 📌 Project Overview
