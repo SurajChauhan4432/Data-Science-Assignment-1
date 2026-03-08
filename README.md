@@ -2,6 +2,17 @@
 <b>👉 <a href="https://colab.research.google.com/drive/1WZXf1zzifgluccmjyTCMR2RVcaxA3rWN?usp=sharing">Click Here to view the full assignment in Google Colab</a></b>
 # T20 Cricket Match Analytics: ICC Data Science Assignment
 
+> **Academic Details:**
+> * **Student Name:** Suraj Chauhan
+> * **Roll Number / ID:** 2472040
+> * **Program Name:** BSc. (Hons) Computer Science
+> * **School / Department:** School of Technology
+> * **University Name:** Doon University
+> * **Submitted To:** Mr. Kamal Rawal
+> * **Academic Year:** 2025-2026
+
+---
+
 ## 📌 Project Overview
 This project is part of a Data Science assignment simulating a role within the International Cricket Council's (ICC) Analytics Team. The objective is to perform exploratory data analysis (EDA), data cleaning, complex data extraction, and visualization on a dataset comprising 1417 International T20 cricket matches. 
 
@@ -50,9 +61,9 @@ The ultimate goal of this assignment was to transition from basic data manipulat
    * Formatted the final output to perfectly mimic the Side-by-Side TV Broadcast graphic (Top 4 Batsmen vs Top 4 Bowlers).
 
 ## 💻 How to Run the Code
-1. Open the provided Jupyter Notebook / Google Colab file.
+1. Open the provided Jupyter Notebook via the Google Colab link at the top of this page.
 2. Ensure the dataset `International_T20_Data.csv` is uploaded to the root directory of your Colab session.
-3. Run the cells sequentially. 
+3. Run the cells sequentially from top to bottom. 
 4. The final cell contains the execution block for the `get_scorecard()` function, which will output the formatted innings tables for the first match in the dataset.
 
 ## 🧠 Key Learnings & Challenges
