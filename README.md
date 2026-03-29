@@ -4,9 +4,9 @@
 
 > **Academic Details:**
 > * **Student Name:** Suraj Chauhan
-> * **Roll Number / ID:** 2472040
+> * **Roll Number:** 2472040
 > * **Program Name:** BSc. (Hons) Computer Science
-> * **School / Department:** School of Technology
+> * **School:** School of Technology
 > * **University Name:** Doon University
 > * **Submitted To:** Mr. Kamal Rawal
 > * **Academic Year:** 2025-2026
